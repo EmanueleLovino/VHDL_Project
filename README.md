@@ -1,5 +1,5 @@
 
-# VHDL Hardware Module — RAM with Credibility Index
+#RAM with Credibility Index
 
 > Final project for *Reti Logiche* (Politecnico di Milano, A.Y. 2023/2024) — **Emanuele Lovino**
 
