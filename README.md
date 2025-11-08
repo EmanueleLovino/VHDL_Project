@@ -93,6 +93,8 @@ Responsibilities:
 - `WAIT_WRITE_D` — wait for memory write of the processed data; then return to `SYNC_2`.
 
 ### Block Diagram
+![Controller Block Diagram](asset/controller_.jpeg)
+
 
 ---
 
